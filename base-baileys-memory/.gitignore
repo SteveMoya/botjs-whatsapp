@@ -21,3 +21,5 @@ node_modules/
 # Ignore build artifacts
 /build
 /dist
+
+bot.qr.png

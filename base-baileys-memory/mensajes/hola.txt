@@ -1,0 +1,8 @@
+Hola, soy el ChatBot de Dimaly Media Group, ¿En qué puedo ayudarte?
+
+Puedes escribirme cualquier duda o pregunta que tengas, estaré encantado de ayudarte.
+
+Puedo ayudarte con:
+El Area de servicios escribiendo *"Area Servicios"*
+El Catalogo de Servicios escribiendo *"Catalogo"*
+Contactar con un representante escribiendo *"Representante"*

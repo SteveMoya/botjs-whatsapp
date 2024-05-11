@@ -1,0 +1,7 @@
+Por favor, Elege una de estas opciones:
+
+Opcion 1 - Catalogo de Estudio
+Opcion 2 - Catalogo de Exterior
+Opcion 3 - Esta opcion no esta disponible
+
+Opcion 0 - Salir
